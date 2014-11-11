@@ -1,0 +1,67 @@
+﻿body {
+    width: 1000px;
+    background-color: #DFFFF7;
+    font-family: Calibri;
+}
+
+#banner {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    font-size: xx-large;
+    vertical-align: middle
+    left: -6px;
+    background-color: #02AFBD;
+    font-family: 'Trebuchet MS';
+    color: #FFFFFF;
+    font-weight: bold;
+    font-variant: normal;
+}
+
+#left {
+    position: relative;
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+#right {
+    position: relative;
+    float: left;
+    width: 75%;
+    top: -1px;
+    left: 2px;
+}
+
+#bottom {
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+#label {
+    position: relative;
+    float: left;
+    width: 20%;
+    text-align: right;
+    line-height: 26px;
+}
+
+#textbox {
+    position: relative;
+    float: left;
+    width: 45%;
+    text-align: left;
+    line-height: 25px;
+}
+
+#image {
+    float: left;
+    width: 30%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+}
+
+

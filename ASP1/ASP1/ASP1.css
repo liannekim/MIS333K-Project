@@ -1,0 +1,33 @@
+﻿body {
+    width: 800px;
+}
+
+#banner {
+    border-style: double;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+#left {
+    border-style: groove;
+    position: relative;
+    float: left;
+    width: 20%;
+}
+
+#right {
+    border-style: ridge;
+    position: relative;
+    float: left;
+    width: 78%;
+}
+
+#bottom {
+    border-style: double;
+    width: 100%;
+    position: relative;
+    float: left;
+}
+

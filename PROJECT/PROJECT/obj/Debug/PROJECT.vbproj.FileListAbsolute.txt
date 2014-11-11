@@ -1,0 +1,3 @@
+D:\MIS 333K\PROJECT\PROJECT\obj\Debug\PROJECT.vbprojResolveAssemblyReference.cache
+D:\MIS 333K\PROJECT\PROJECT\obj\Debug\PROJECT.Resources.resources
+D:\MIS 333K\PROJECT\PROJECT\obj\Debug\PROJECT.vbproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+D:\MIS 333K\ASP6\ASP6\bin\ASP6.dll
+D:\MIS 333K\ASP6\ASP6\bin\ASP6.pdb
+D:\MIS 333K\ASP6\ASP6\bin\ASP6.xml
+D:\MIS 333K\ASP6\ASP6\bin\Microsoft.Web.Infrastructure.dll
+D:\MIS 333K\ASP6\ASP6\bin\Microsoft.Web.Infrastructure.xml
+D:\MIS 333K\ASP6\ASP6\bin\EntityFramework.xml
+D:\MIS 333K\ASP6\ASP6\bin\DotNetOpenAuth.Core.xml
+D:\MIS 333K\ASP6\ASP6\bin\DotNetOpenAuth.OAuth.xml
+D:\MIS 333K\ASP6\ASP6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\MIS 333K\ASP6\ASP6\bin\DotNetOpenAuth.OpenId.xml
+D:\MIS 333K\ASP6\ASP6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\MIS 333K\ASP6\ASP6\bin\DotNetOpenAuth.AspNet.xml
+D:\MIS 333K\ASP6\ASP6\obj\Release\ASP6.Resources.resources
+D:\MIS 333K\ASP6\ASP6\obj\Release\ASP6.vbproj.GenerateResource.Cache
+D:\MIS 333K\ASP6\ASP6\obj\Release\ASP6.dll
+D:\MIS 333K\ASP6\ASP6\obj\Release\ASP6.xml
+D:\MIS 333K\ASP6\ASP6\obj\Release\ASP6.pdb

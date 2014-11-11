@@ -1,0 +1,55 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="MasterPage.master.vb" Inherits="ASP6.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="ASP2.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .auto-style1 {
+            width: 64px;
+            height: 75px;
+        }   
+        .auto-style2 {
+            width: 66px;
+            height: 75px;
+        }
+        .auto-style3 {
+            width: 59px;
+            height: 75px;
+        }
+        .auto-style4 {
+            width: 66px;
+            height: 75px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <div id="banner">
+            James's Flower Shop<br />
+&nbsp;<img alt="" class="auto-style1" src="flower1.jpg" />  <img alt="" class="auto-style2" src="flower2.jpg" />  <img alt="" class="auto-style3" src="flower4.jpg" />  <img alt="" class="auto-style4" src="flower3.jpg" /><br />
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+        <div id="bottom">
+            Providing the best flower arrangements in town
+
+
+        <br />
+            <br />
+            P.O. Box 2525<br />
+            Irvine, California<br />
+            (714) 456-1309<br />
+            inquiries@JFlowers.com</div>
+    </div>
+    </form>
+</body>
+</html>

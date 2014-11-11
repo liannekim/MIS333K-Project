@@ -1,0 +1,10 @@
+E:\MIS 333K\ASP4\ASP4\bin\ASP4.dll
+E:\MIS 333K\ASP4\ASP4\bin\ASP4.pdb
+E:\MIS 333K\ASP4\ASP4\bin\ASP4.xml
+E:\MIS 333K\ASP4\ASP4\bin\Microsoft.Web.Infrastructure.dll
+E:\MIS 333K\ASP4\ASP4\bin\Microsoft.Web.Infrastructure.xml
+E:\MIS 333K\ASP4\ASP4\obj\Release\ASP4.Resources.resources
+E:\MIS 333K\ASP4\ASP4\obj\Release\ASP4.vbproj.GenerateResource.Cache
+E:\MIS 333K\ASP4\ASP4\obj\Release\ASP4.dll
+E:\MIS 333K\ASP4\ASP4\obj\Release\ASP4.xml
+E:\MIS 333K\ASP4\ASP4\obj\Release\ASP4.pdb
